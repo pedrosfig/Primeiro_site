@@ -9,3 +9,14 @@ h1{
     color: blue;
     background-color: orange;
 }
+
+
+#sobre{
+    color: rgb(240, 4, 200);
+    background-color: rgb(51, 39, 216);
+}
+
+
+img{
+    width: 100%;
+}
